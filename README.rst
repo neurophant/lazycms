@@ -149,6 +149,7 @@ project/app.py:
 
     from lazycms import LazyCMS
 
+
     cms = LazyCMS(config_path='app.yml')
 
 Run:
